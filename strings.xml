@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">小米主题下载</string>
+    <string name="inputurl">请输入网址</string>
+    <string name="help">练手作品，文件下载会下载到SD卡的MIThemeDown目录。小米主题真实地址分析：https://lovestu.com/3.html</string>
+</resources>
